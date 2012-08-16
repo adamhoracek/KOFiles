@@ -10,7 +10,7 @@ Features
 
 Individual items can be selected by tapping the icon on the left side of them. Multiple selection is allowed. If you select only one item, a toolbox is shown with an animation.
 
-To see the component in action, take a look at the video at [http://www.becomekodiak.com/](http://www.becomekodiak.com/) or try out app called [Kodiak PHP on the App Store](http://itunes.apple.com/us/app/kodiak-php/id542685332?ls=1&mt=8).
+To see the component in action, take a look at the video at [http://www.becomekodiak.com/](http://www.becomekodiak.com/) or try our app called [Kodiak PHP on the App Store](http://itunes.apple.com/us/app/kodiak-php/id542685332?ls=1&mt=8).
 
 Usage
 -----
@@ -25,5 +25,7 @@ This product is free and open source and it is distributed under the MIT License
 Contact
 -------
 
-info@becomekodiak.com<br />
-www.becomekodiak.com
+http://www.becomekodiak.com/<br />
+http://www.twitter.com/becomekodiak/<br />
+info@becomekodiak.com
+
